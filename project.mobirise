@@ -34,7 +34,7 @@
         "#000000"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/brys-site-faviconartboard-1300.png",
+    "favicon": "@PROJECT_PATH@/assets/images/brys-site-faviconartboard-1300-1.png",
     "noImageResize": "true"
   },
   "pages": {
