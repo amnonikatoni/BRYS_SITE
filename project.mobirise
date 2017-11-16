@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "BRYS",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 21,
@@ -33,7 +33,9 @@
       "additionalSetColors": [
         "#000000"
       ]
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/brys-site-favicon-128x71.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
